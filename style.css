@@ -1,0 +1,121 @@
+#intro_black{
+    width:fill;
+    height:900px;
+    background-color: black;
+    margin-top:-20px;
+}
+#introtext{
+    color:yellow;
+    font-family: 'Rubik Spray Paint', cursive;
+    font-size: 65px;
+    margin-left:200px;
+}
+#myNavbar{
+    font:white;
+    background-color: black;
+    margin-top:-20px;
+}
+#logo{
+    width:160px;
+    height:30px;
+}
+#fl{
+    width:50%;
+    padding-top:300px;
+    height:300px;
+}
+#person_picture{
+    border-radius: 70%;
+}
+#fr{
+    float:right;
+    margin-top:-50px;
+    margin-right:300px;
+}
+#introsmalltext{
+    color:white;
+    margin-left:200px;
+}
+#graywave{
+    margin-top:-100px;
+    width:100%;
+    height:450px;
+}
+.subhead{
+    font-family: 'Secular One', sans-serif;
+    font-size:50px;
+}
+#who{
+    padding-left:250px;
+}
+#what{
+    padding-right:250px;
+    float:right;
+}
+#round_pic_what{
+    border-radius:100px;
+    width:218px;
+    height:231px;
+    margin-left:430px;
+}
+.paragraphs{
+    font-family: 'Secular One', sans-serif;
+    font-size: 15px;
+}
+#para_image{
+    float:right;
+    margin-right:300px;
+    margin-top:-200px;
+}
+.icon_header{
+    font-family: 'Archivo', sans-serif;
+    font-size: 30px;
+    padding-top:50px;
+}
+.icon{
+    width:100px;
+    height:100px;
+}
+.iconbox{
+    width:295.57px;
+}
+.floatmeleft{
+    float:left;
+}
+.icon_paragraph{
+    font-family: 'Archivo', sans-serif;
+    width:295.57px;
+    text-align: center;
+}
+#smaller{
+    font-size:20px;
+}
+
+
+
+
+
+
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px ; 
+    background:#444444;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: black; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #222222; 
+  }
